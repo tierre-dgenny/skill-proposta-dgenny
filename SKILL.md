@@ -15,7 +15,7 @@ Gera e publica automaticamente uma página de proposta comercial personalizada n
 - **Página de referência visual:** ID 522 (`/proposta-moinho/`) — buscar via API para reutilizar os SVGs do logo
 - **Template obrigatório:** `elementor_canvas` (canvas em branco, sem header/footer do tema)
 - **Meta obrigatório:** `_elementor_edit_mode: ""` — desativa Elementor para não quebrar o HTML
-- **Botão CTA:** sempre linkar para `https://wa.me/5567992190016?text=Ol%C3%A1%2C%20Tierre!%20Tenho%20interesse%20na%20proposta%20da%20dgenny%C2%AE.` com `target="_blank"`
+- **Botão CTA:** sempre linkar para `https://www.dgenny.com.br/registro-cliente` com `target="_blank"`
 
 ## Argumentos esperados
 
